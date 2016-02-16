@@ -1,1 +1,2 @@
-git push origin master
+git push origin master 推送到远程
+ git remote -v 查看远程仓库
