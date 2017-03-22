@@ -1,10 +1,5 @@
-用来test的文件
-rebse
-braachtext改rebbs了
-id（daddsssss）{
+if（1）{
 
-br了
-if（dadd）{
+}else
+
 }
-master分baranch支呗改
-
