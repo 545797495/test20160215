@@ -6,4 +6,8 @@ console.log(master);
 github
 if(github){
 console.log（github）;
+rebase分支
+if(rebase){
+  console.log(rebase);
+}
 
