@@ -9,17 +9,14 @@ for(var master=0;master>length;master++){
 github--;
 console.log(master);
 }
-github
+github远程修改
 if(github){
 console.log（github）;
 rebase分支
 if(rebase){
   console.log(rebase);
 }
-asdfasdfsdfsdf
 
-
-asdfasdfsdfsdf
 rebase分支再次工作{
   if（alay）
   console.alert
