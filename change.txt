@@ -13,10 +13,13 @@ github远程修改
 if(github){
 console.log（github）;
 rebase分支
-if(rebase){
+if(rebase33333333){
   console.log(rebase);
 }
-
+asdfasdfsdfsdf
+reabse分支第三次工作{
+  console.log(rebase3333333);
+}
 rebase分支再次工作{
   if（alay）
   console.alert
