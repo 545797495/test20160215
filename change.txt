@@ -1,7 +1,4 @@
-用来test的文件
-rebse
-braachtext改rebbs了
-id（daddsssss）{
-
+rebase分支
+if(rebase){
+  console.log(rebase);
 }
-master分baranch支呗改
