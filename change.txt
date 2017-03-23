@@ -1,5 +1,9 @@
 master分支
 for(var master=0;master>length;master++){
-master--;
+github--;
 console.log(master);
+}
+github
+if(github){
+console.log（github）;
 }
