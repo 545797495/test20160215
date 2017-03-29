@@ -7,6 +7,7 @@ master分支
 
 for(var copy1;copy1>length;copyr++){
 github--;
+yes
 console.log(master);
 }
 github远程修改
