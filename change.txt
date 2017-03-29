@@ -17,7 +17,7 @@ if(rebase33333333){
   console.log(rebase);
 }
 asdfasdfsdfsdf
-reabse分支第git  console.log(rebase3333333);
+//reabse分支第git  console.log(rebase3333333);
 }
 rebase分支再次工作{
   if（alay）
