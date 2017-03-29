@@ -4,7 +4,6 @@ if(rebase){
   console.log(rebase);
 }
 master分支
-
 for(var copy1;copy1>length;copyr++){
 github--;
 yes
