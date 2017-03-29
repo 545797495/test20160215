@@ -5,7 +5,7 @@ if(rebase){
 }
 master分支
 
-for(var master=0;master>length;master++){
+for(var copy1;copy1>length;copyr++){
 github--;
 console.log(master);
 }
